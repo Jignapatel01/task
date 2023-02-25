@@ -1,0 +1,36 @@
+.body
+{
+    margin: 0;
+    padding: 0;
+}
+.header ul li
+{
+    display: inline-block;
+    margin: 10px  ;
+    color: white;
+    margin-left: 60px;
+   
+}
+.header a
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    /* margin-left: 100%; */
+     
+}
+.list
+{
+    border-right: solid 2px lightgray;
+    
+}
+.list ul li 
+{
+    padding: 10px;
+}
+.list a
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
